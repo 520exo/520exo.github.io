@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+#card {
+	width: 300px;
+	height: 460px;
+	margin: auto;
+	background-color: #F3C7C8;
+	border-radius: 15px;
+}
+#pic {
+	width: 200px;
+	height: 200px;
+	background-color: #F78486;
+	background-image: url(images/head2.png);
+	background-position: center 0%;
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	border-radius: 100px;
+}
+#word {
+	height: 0vmax;
+	width: 60%;
+	background-color: #A7E4EC;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	border-radius: 15px;
+}
+h1  {
+	color: #8E1A1E;
+}
+h2  {
+	color: #D89293;
+}
+h4  {
+	color: #D89293;
+}
